@@ -1,0 +1,1 @@
+<? require_once("Registro.html") ?>
